@@ -1,0 +1,13 @@
+requests
+pycountry
+str
+requests
+fade
+colorama
+pystyle
+pycryptodome
+DiscordHooks
+dhooks
+discord
+discord-webhook
+pywin32
